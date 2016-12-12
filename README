@@ -1,0 +1,15 @@
+1) This is a maven project. 
+2) I have added a makefile. 
+
+make commands: 
+ to compile: make build
+ to run: make run
+ 
+make run will start the local tomcat server that ships with spring.
+
+I tested the apis using firefox REST Api plugin.
+
+sample api calls:
+
+1) to get a product:
+http://localhost:8080/getProduct?productId=1

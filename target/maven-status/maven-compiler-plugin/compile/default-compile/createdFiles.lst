@@ -1,0 +1,10 @@
+com/rest/exception/ServiceException.class
+com/rest/dao/IProductDAO.class
+com/rest/dao/ProductDB.class
+com/rest/exception/RestExceptionHandler.class
+com/rest/exception/ErrorResponse.class
+com/rest/service/ProductService.class
+com/rest/RestApplication.class
+com/rest/domain/ProductType.class
+com/rest/dao/ProductDAOImpl.class
+com/rest/domain/Product.class
